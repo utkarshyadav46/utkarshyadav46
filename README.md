@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshyadav46&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshyadav46" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshyadav46" alt="utkarshyadav46" /></a> </p>
+
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👯 I’m looking to collaborate on **Sagan**
 
-- 📫 How to reach me **utkarshyadav46@gmail.com**
+- 💬 Ask me about **Java, Spring Framework, Python**
+
+- 📫 You can reach me at **utkarshyadav46@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1S7GvMeJwOsUGMU7vsCJwuNJzp3ZH-hvu/view](https://drive.google.com/file/d/1S7GvMeJwOsUGMU7vsCJwuNJzp3ZH-hvu/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-yadav-739186162/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-yadav-739186162/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utkarsh-yadav-739186162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-yadav-739186162" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/utkarshyadav46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="utkarshyadav46" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utkarshyadav46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="utkarshyadav46" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/utkarshyadav46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="utkarshyadav46" height="30" width="40" /></a>
