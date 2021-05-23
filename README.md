@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👯 I’m looking to collaborate on **Sagan**
+- 👯 I’m looking to collaborate on **Spring Projects**
 
 - 💬 Ask me about **Java, Spring Framework, Python**
 
